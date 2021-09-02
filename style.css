@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    background: #dedede;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .gameboard {
+    height: 100vh;
+    width: 100vh;
+    /* border-radius: 50%; */
+    border: 2px solid black;
+    overflow: hidden;
+    margin: 0 auto;
+    max-height: 60vh;
+    max-width: 60vh;
+  }
+
+  .color {
+    width: 50%;
+    height: 50%;    
+    display: inline-block;
+    
+  }
+
+  .left {
+    float: left;
+  }
+
+  .right {
+    float: left;
+  }
+
+  .celeste {
+    /* border: 1px solid red; */
+    background-size: cover;
+    /* background-image:  url('./imgs/kakashi.jpg'); */
+    background-image: url('./imgs/hector.PNG');
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    /* background: #22a6b3; */
+  }
+
+  .celeste.light {
+    
+    background: #7ed6df;
+  }
+
+  .violeta {
+    /* border: 1px solid red; */
+    background-size: cover;
+    /* background-image:  url('./imgs/Jiraiya.png'); */
+    background-image: url('./imgs/jaime.PNG');
+    background-position: center;
+   
+    background-repeat: no-repeat;
+    /* background: #be2edd; */
+  }
+
+  .violeta.light {
+    background: #e056fd;
+  }
+
+  .naranja {
+    /* border: 1px solid red; */
+    background-size: cover;
+    /* background-image:  url('./imgs/guy.jpg'); */
+    background-image: url('./imgs/pacho.PNG');
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    /* background: #f0932b; */
+  }
+
+  .naranja.light {
+    background: #ffbe76;
+  }
+
+  .verde {
+    /* border: 1px solid red; */
+    background-size: cover;
+    /* background-image:  url('./imgs/minato.jpg'); */
+    background-image: url('./imgs/brian.PNG');
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    /* background: #6ab04c; */
+  }
+
+  .verde.light {
+    background: #badc58;
+  }
+
+  .btn-start {
+    width: 400px;
+    height: 100px;
+    background-color: salmon;
+    /* background: #ecf0f1; */
+    color: #2c3e50;
+    font-size: 2.5rem;
+    position: absolute;
+    top: calc(50% - 50px);
+    left: calc(50% - 200px);
+  }
+
+  .hide {
+    display: none;
+  }
+  * {
+    font-family: 'Arial';
+  }
