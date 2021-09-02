@@ -9,7 +9,7 @@ body {
   .gameboard {
     height: 100vh;
     width: 100vh;
-    /* border-radius: 50%; */
+    border-radius: 50%;
     border: 2px solid black;
     overflow: hidden;
     margin: 0 auto;
