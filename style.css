@@ -35,8 +35,8 @@ body {
   .celeste {
     /* border: 1px solid red; */
     background-size: cover;
-    /* background-image:  url('./imgs/kakashi.jpg'); */
-    background-image: url('./imgs/hector.PNG');
+    background-image:  url('./imgs/kakashi.jpg');
+    /* background-image: url('./imgs/hector.PNG'); */
     background-position: center;
     
     background-repeat: no-repeat;
@@ -51,8 +51,8 @@ body {
   .violeta {
     /* border: 1px solid red; */
     background-size: cover;
-    /* background-image:  url('./imgs/Jiraiya.png'); */
-    background-image: url('./imgs/jaime.PNG');
+    background-image:  url('./imgs/Jiraiya.png');
+    /* background-image: url('./imgs/jaime.PNG'); */
     background-position: center;
    
     background-repeat: no-repeat;
@@ -66,8 +66,8 @@ body {
   .naranja {
     /* border: 1px solid red; */
     background-size: cover;
-    /* background-image:  url('./imgs/guy.jpg'); */
-    background-image: url('./imgs/pacho.PNG');
+    background-image:  url('./imgs/guy.jpg');
+    /* background-image: url('./imgs/pacho.PNG'); */
     background-position: center;
     
     background-repeat: no-repeat;
@@ -81,8 +81,8 @@ body {
   .verde {
     /* border: 1px solid red; */
     background-size: cover;
-    /* background-image:  url('./imgs/minato.jpg'); */
-    background-image: url('./imgs/brian.PNG');
+    background-image:  url('./imgs/minato.jpg');
+    /* background-image: url('./imgs/brian.PNG'); */
     background-position: center;
     
     background-repeat: no-repeat;

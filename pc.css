@@ -31,10 +31,10 @@ body {
   }
 
   .celeste {
-    background-image:  url('./imgs/kakashi.jpg');
+    /* background-image:  url('./imgs/kakashi.jpg'); */
     /* background-image:  url('./imgs/hector.PNG'); */
     background-repeat: no-repeat;
-    /* background: #22a6b3; */
+    background: #22a6b3;
   }
 
   .celeste.light {
@@ -44,10 +44,10 @@ body {
 
   .violeta {
  
-    background-image:  url('./imgs/Jiraiya.png');
+    /* background-image:  url('./imgs/Jiraiya.png'); */
     /* background-image:  url('./imgs/jaime.PNG'); */
     background-repeat: no-repeat;
-    /* background: #be2edd; */
+    background: #be2edd;
   }
 
   .violeta.light {
@@ -55,10 +55,10 @@ body {
   }
 
   .naranja {
-    background-image:  url('./imgs/guy.jpg');
+    /* background-image:  url('./imgs/guy.jpg'); */
     /* background-image:  url('./imgs/pacho.PNG'); */
     background-repeat: no-repeat;
-    /* background: #f0932b; */
+    background: #f0932b;
   }
 
   .naranja.light {
@@ -66,10 +66,10 @@ body {
   }
 
   .verde {
-    background-image:  url('./imgs/minato.jpg');
+    /* background-image:  url('./imgs/minato.jpg'); */
     /* background-image:  url('./imgs/brian.PNG'); */
     background-repeat: no-repeat;
-    /* background: #6ab04c; */
+    background: #6ab04c;
   }
 
   .verde.light {
